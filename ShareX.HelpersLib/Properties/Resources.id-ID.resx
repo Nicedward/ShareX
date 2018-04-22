@@ -1042,7 +1042,7 @@ Apakah anda ingin mengunduhnya?</value>
   </data>
   <data name="DownloaderForm_ChangeProgress_Progress" xml:space="preserve">
     <value>Kemajuan: {0:0.0}%
-Kecepan unduh: {1:0.0} KB/d
+Kecepatan unduh: {1:0.0} KB/d
 Ukuran file: {2:n0} / {3:n0} KB</value>
   </data>
   <data name="MyPictureBox_LoadImageAsync_Loading_image___" xml:space="preserve">
